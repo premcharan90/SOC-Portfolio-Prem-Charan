@@ -29,5 +29,5 @@ To secure a challenging position as SOC Analyst where I can contribute to real-t
 
 
 ### 📬 Contact
-- LinkedIn: (Add your link)
-- Email: (Add your email)
+- LinkedIn: www.linkedin.com/in/navundla-prem-charan-789532318
+- Email: npremcharan295@gmail.com
