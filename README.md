@@ -8,20 +8,14 @@ Welcome to my Security Operations Center portfolio. This repository demonstrates
 
 
 ### 🛠 Tools & Technologies
-- Splunk
 - Wazuh
-- IBM QRadar
-- Wireshark
 - Windows Event Logs
 - MITRE ATT&CK Framework
 
 
 ### 📁 Portfolio Highlights
-- Suspicious Login Detection using Splunk
-- Phishing Email Analysis
-- Wazuh Threat Monitoring
-- QRadar Correlation Rules
-- Incident Response Playbook
+- SIEM Setup and log ingestion
+
 
 
 ### 🎯 Career Objective
