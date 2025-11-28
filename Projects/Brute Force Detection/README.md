@@ -18,7 +18,7 @@ Implementation Steps:
 
 - Simulated brute force attack using Hydra
 
-= Monitored login failures in SIEM
+- Monitored login failures in SIEM
 
 - Correlated repeated failures to identify brute force behavior
 
