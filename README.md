@@ -9,13 +9,16 @@ Welcome to my Security Operations Center portfolio. This repository demonstrates
 
 ### 🛠 Tools & Technologies
 - Wazuh
+- Linux Logs
+- Sysmon
 - Windows Event Logs
 - MITRE ATT&CK Framework
 
 
 ### 📁 Portfolio Highlights
 - SIEM Setup and log ingestion
-
+- Brute Force Detection
+- Threat Hunting
 
 
 ### 🎯 Career Objective
