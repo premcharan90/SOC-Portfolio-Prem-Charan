@@ -13,12 +13,15 @@ Welcome to my Security Operations Center portfolio. This repository demonstrates
 - Sysmon
 - Windows Event Logs
 - MITRE ATT&CK Framework
+- VirusTotal, Any.run, Hybrid Analysis
 
 
 ### 📁 Portfolio Highlights
 - SIEM Setup and log ingestion
 - Brute Force Detection
 - Threat Hunting
+- Network traffic analysis
+- Malware IOC Extraction
 
 
 ### 🎯 Career Objective
